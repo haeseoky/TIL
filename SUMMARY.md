@@ -9,4 +9,5 @@
 
 ## Spring
 
-* [토비의 스프링 3.1](spring/3.1.md)
+* [토비의 스프링 3.1](spring/3.1/README.md)
+  * [Vol. 1 스프링의 이해와 원리](spring/3.1/vol.-1.md)
