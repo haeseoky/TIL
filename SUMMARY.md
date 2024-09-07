@@ -6,6 +6,8 @@
 
 * [CleanCode](java/cleancode/README.md)
   * [1장 깨끗한 코드](java/cleancode/1.md)
+* [Refactoring(2nd edition)](java/refactoring-2nd-edition/README.md)
+  * [1. 리팩터링: 첫 번째 예시](java/refactoring-2nd-edition/1..md)
 
 ## Spring
 
