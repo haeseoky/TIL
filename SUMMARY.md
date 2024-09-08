@@ -29,7 +29,7 @@
 * [Refactoring(2nd edition)](java/refactoring-2nd-edition/README.md)
   * [1. 리팩터링: 첫 번째 예시](java/refactoring-2nd-edition/1..md)
 * [Effective Java 3/E](java/Effective%20Java/README.md)
-  * [01장 들어가기](./java/Effective%20Java/01장%20들어가기.md)
+  * [01장 들어가기](./java/Effective%20Java/01장%20들어가기/01장%20들어가기.md)
   * [02장 객체 생성과 파괴](./java/Effective%20Java/02장%20객체%20생성과%20파괴)
     * [item01 생성자대신 정적 팩터리 메서드를 고려하라](./java/Effective%20Java/02장%20객체%20생성과%20파괴/item1.md)
   * [03장 모든 객체의 공통 메서드]
